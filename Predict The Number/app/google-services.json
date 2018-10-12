@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "521729654941",
+    "firebase_url": "https://predictthenumber-25588507.firebaseio.com",
+    "project_id": "predictthenumber-25588507",
+    "storage_bucket": "predictthenumber-25588507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521729654941:android:2d12d8b07beca68e",
+        "android_client_info": {
+          "package_name": "com.alicagatay.predictthenumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521729654941-tjctp43b1nt5qr99nc321jmrbnca2v43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alicagatay.predictthenumber",
+            "certificate_hash": "201ed2e57f351c0b15cae9ce228e89858f5a6f5a"
+          }
+        },
+        {
+          "client_id": "521729654941-ln3lsph0b0auj230o9fk9stb80ttmvm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF2Yp-Bv5kum2qy0vnw0AeZgcniB7TDX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521729654941-ln3lsph0b0auj230o9fk9stb80ttmvm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
