@@ -1,0 +1,474 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/b07e38d77577ad090b6efbfb745f6289/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/3b550e6447afa9aa74f310c90946e1e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a4624e239a9af7647d85d346aa3c58c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/113e9971f12b01ac98755000402965a1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/04225625136a4df3765f48c90e57fb06/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-ads:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.8.0.aar/c1348ce017e66f1983ad34e7255a8ead/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:17:1-54:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9bfe8a7e1e33ed88471363eb212f898/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bbec2c83e770e0fb7dfee8a4f67657c4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a7ae5e7f375ae38f64dbbaa9cb8d3cf8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1129121f043f17dbef50fa57e53661c0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/f8adf644e2dc9644b4fb18a79db40756/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/929e0c6c5a16371ee62bc8a53401885e/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/bff98cd82aaecd4befead1443ec468a6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/648430804ea8f76c1b810ad921fe315e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/0d3191a80276b737bc096d2068865ebc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/de252c56040bc43f9cd0d685b162e9b3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f09b9c11bfe658d21595f10bc9f841f4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d32acce29ae4e57c5a63a618af0d277/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/767fd8832bd4e11929f791ed511ff488/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ca4c620c94889c7fcc83e29f8b9c29bf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b6be91bbd0a1d79e01de99eee49612bb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/bd7fd033a35e1577ab04e5dd53cb14fc/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/5c5bd871da201fe82afb4265f445c224/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/3b5550d446d301c4981a6d07978c6aaa/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/7db7fce88c9ef365db19fcf1c4c488ec/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/6066d240f590b4814abaafef880c1a56/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6160cd6d9f6447737dcbb82bbb06069b/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/aacfa33e30aff4a5c66f3db55f6c8ef7/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/460d0359051a183306dd4a934bfcfd9b/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a6db1ba6b13d59bfc4e3f644335c34d1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/fcca559bc6e5ffa8885227bca1c96b18/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:5:5-37:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/b07e38d77577ad090b6efbfb745f6289/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/b07e38d77577ad090b6efbfb745f6289/AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:design:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a4624e239a9af7647d85d346aa3c58c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a4624e239a9af7647d85d346aa3c58c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/113e9971f12b01ac98755000402965a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/113e9971f12b01ac98755000402965a1/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/04225625136a4df3765f48c90e57fb06/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/04225625136a4df3765f48c90e57fb06/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-ads:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.8.0.aar/c1348ce017e66f1983ad34e7255a8ead/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.8.0.aar/c1348ce017e66f1983ad34e7255a8ead/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:27:5-52:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9bfe8a7e1e33ed88471363eb212f898/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9bfe8a7e1e33ed88471363eb212f898/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bbec2c83e770e0fb7dfee8a4f67657c4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bbec2c83e770e0fb7dfee8a4f67657c4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a7ae5e7f375ae38f64dbbaa9cb8d3cf8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a7ae5e7f375ae38f64dbbaa9cb8d3cf8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1129121f043f17dbef50fa57e53661c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1129121f043f17dbef50fa57e53661c0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/929e0c6c5a16371ee62bc8a53401885e/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/929e0c6c5a16371ee62bc8a53401885e/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/bff98cd82aaecd4befead1443ec468a6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/bff98cd82aaecd4befead1443ec468a6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/648430804ea8f76c1b810ad921fe315e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/648430804ea8f76c1b810ad921fe315e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/0d3191a80276b737bc096d2068865ebc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/0d3191a80276b737bc096d2068865ebc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/de252c56040bc43f9cd0d685b162e9b3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/de252c56040bc43f9cd0d685b162e9b3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f09b9c11bfe658d21595f10bc9f841f4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f09b9c11bfe658d21595f10bc9f841f4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d32acce29ae4e57c5a63a618af0d277/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d32acce29ae4e57c5a63a618af0d277/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/767fd8832bd4e11929f791ed511ff488/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/767fd8832bd4e11929f791ed511ff488/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ca4c620c94889c7fcc83e29f8b9c29bf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ca4c620c94889c7fcc83e29f8b9c29bf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b6be91bbd0a1d79e01de99eee49612bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b6be91bbd0a1d79e01de99eee49612bb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/bd7fd033a35e1577ab04e5dd53cb14fc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/bd7fd033a35e1577ab04e5dd53cb14fc/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/5c5bd871da201fe82afb4265f445c224/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/5c5bd871da201fe82afb4265f445c224/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/3b5550d446d301c4981a6d07978c6aaa/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/3b5550d446d301c4981a6d07978c6aaa/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/7db7fce88c9ef365db19fcf1c4c488ec/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/7db7fce88c9ef365db19fcf1c4c488ec/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/6066d240f590b4814abaafef880c1a56/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/6066d240f590b4814abaafef880c1a56/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6160cd6d9f6447737dcbb82bbb06069b/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6160cd6d9f6447737dcbb82bbb06069b/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/aacfa33e30aff4a5c66f3db55f6c8ef7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/aacfa33e30aff4a5c66f3db55f6c8ef7/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/460d0359051a183306dd4a934bfcfd9b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/460d0359051a183306dd4a934bfcfd9b/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a6db1ba6b13d59bfc4e3f644335c34d1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a6db1ba6b13d59bfc4e3f644335c34d1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/fcca559bc6e5ffa8885227bca1c96b18/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/fcca559bc6e5ffa8885227bca1c96b18/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:11:9-40
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:6:9-68
+activity#com.alicagatay.predictthenumber.MainActivity
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:12:9-17:20
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:15:27-74
+activity#com.alicagatay.predictthenumber.MainActivity2
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:18:9-51
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:18:19-48
+activity#com.alicagatay.predictthenumber.MainActivity3
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:19:19-48
+activity#com.alicagatay.predictthenumber.Instructions
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:20:19-47
+activity#com.alicagatay.predictthenumber.MainActivity4
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:21:19-48
+activity#com.alicagatay.predictthenumber.MainActivity5
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:22:19-48
+activity#com.alicagatay.predictthenumber.LoginActivity
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:23:9-25:60
+	android:label
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:25:13-57
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:24:13-42
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:28:9-30:44
+	android:value
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:30:13-41
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:29:13-63
+meta-data#com.google.android.gms.version
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:31:9-33:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/0d3191a80276b737bc096d2068865ebc/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/0d3191a80276b737bc096d2068865ebc/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:33:13-66
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:32:13-58
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:34:9-36:69
+	android:value
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:36:13-67
+	android:name
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml:35:13-69
+uses-sdk
+INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/b07e38d77577ad090b6efbfb745f6289/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/b07e38d77577ad090b6efbfb745f6289/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/3b550e6447afa9aa74f310c90946e1e3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/3b550e6447afa9aa74f310c90946e1e3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a4624e239a9af7647d85d346aa3c58c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a4624e239a9af7647d85d346aa3c58c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/113e9971f12b01ac98755000402965a1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/113e9971f12b01ac98755000402965a1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/04225625136a4df3765f48c90e57fb06/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/04225625136a4df3765f48c90e57fb06/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-ads:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.8.0.aar/c1348ce017e66f1983ad34e7255a8ead/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-ads:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-ads-11.8.0.aar/c1348ce017e66f1983ad34e7255a8ead/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9bfe8a7e1e33ed88471363eb212f898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9bfe8a7e1e33ed88471363eb212f898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bbec2c83e770e0fb7dfee8a4f67657c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bbec2c83e770e0fb7dfee8a4f67657c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a7ae5e7f375ae38f64dbbaa9cb8d3cf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a7ae5e7f375ae38f64dbbaa9cb8d3cf8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1129121f043f17dbef50fa57e53661c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1129121f043f17dbef50fa57e53661c0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/f8adf644e2dc9644b4fb18a79db40756/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/f8adf644e2dc9644b4fb18a79db40756/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/929e0c6c5a16371ee62bc8a53401885e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/929e0c6c5a16371ee62bc8a53401885e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/bff98cd82aaecd4befead1443ec468a6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.8.0.aar/bff98cd82aaecd4befead1443ec468a6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/648430804ea8f76c1b810ad921fe315e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/648430804ea8f76c1b810ad921fe315e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/0d3191a80276b737bc096d2068865ebc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/0d3191a80276b737bc096d2068865ebc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/de252c56040bc43f9cd0d685b162e9b3/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/de252c56040bc43f9cd0d685b162e9b3/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f09b9c11bfe658d21595f10bc9f841f4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f09b9c11bfe658d21595f10bc9f841f4/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d32acce29ae4e57c5a63a618af0d277/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d32acce29ae4e57c5a63a618af0d277/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/767fd8832bd4e11929f791ed511ff488/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/767fd8832bd4e11929f791ed511ff488/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ca4c620c94889c7fcc83e29f8b9c29bf/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ca4c620c94889c7fcc83e29f8b9c29bf/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b6be91bbd0a1d79e01de99eee49612bb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b6be91bbd0a1d79e01de99eee49612bb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/bd7fd033a35e1577ab04e5dd53cb14fc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/bd7fd033a35e1577ab04e5dd53cb14fc/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/5c5bd871da201fe82afb4265f445c224/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-license-11.8.0.aar/5c5bd871da201fe82afb4265f445c224/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/3b5550d446d301c4981a6d07978c6aaa/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/3b5550d446d301c4981a6d07978c6aaa/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/7db7fce88c9ef365db19fcf1c4c488ec/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/7db7fce88c9ef365db19fcf1c4c488ec/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/6066d240f590b4814abaafef880c1a56/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/6066d240f590b4814abaafef880c1a56/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6160cd6d9f6447737dcbb82bbb06069b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6160cd6d9f6447737dcbb82bbb06069b/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/aacfa33e30aff4a5c66f3db55f6c8ef7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-license-11.8.0.aar/aacfa33e30aff4a5c66f3db55f6c8ef7/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/460d0359051a183306dd4a934bfcfd9b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-gass-license-11.8.0.aar/460d0359051a183306dd4a934bfcfd9b/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a6db1ba6b13d59bfc4e3f644335c34d1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/a6db1ba6b13d59bfc4e3f644335c34d1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/fcca559bc6e5ffa8885227bca1c96b18/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/fcca559bc6e5ffa8885227bca1c96b18/AndroidManifest.xml:4:5-43
+INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a4624e239a9af7647d85d346aa3c58c/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alicagatay/AndroidStudioProjects/PredictTheNumber/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a4624e239a9af7647d85d346aa3c58c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/113e9971f12b01ac98755000402965a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/113e9971f12b01ac98755000402965a1/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9bfe8a7e1e33ed88471363eb212f898/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/b9bfe8a7e1e33ed88471363eb212f898/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bbec2c83e770e0fb7dfee8a4f67657c4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/bbec2c83e770e0fb7dfee8a4f67657c4/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a7ae5e7f375ae38f64dbbaa9cb8d3cf8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/a7ae5e7f375ae38f64dbbaa9cb8d3cf8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1129121f043f17dbef50fa57e53661c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/1129121f043f17dbef50fa57e53661c0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/de252c56040bc43f9cd0d685b162e9b3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/de252c56040bc43f9cd0d685b162e9b3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f09b9c11bfe658d21595f10bc9f841f4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/f09b9c11bfe658d21595f10bc9f841f4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d32acce29ae4e57c5a63a618af0d277/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/5d32acce29ae4e57c5a63a618af0d277/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/767fd8832bd4e11929f791ed511ff488/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/767fd8832bd4e11929f791ed511ff488/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ca4c620c94889c7fcc83e29f8b9c29bf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ca4c620c94889c7fcc83e29f8b9c29bf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b6be91bbd0a1d79e01de99eee49612bb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/b6be91bbd0a1d79e01de99eee49612bb/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a4624e239a9af7647d85d346aa3c58c/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7a4624e239a9af7647d85d346aa3c58c/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2d82a17ea0ea7b3d662f30ee8664b94b/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/923c19bd790e3ffc9c9b2712936e02d9/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:29:9-63
+permission#com.alicagatay.predictthenumber.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:32:22-76
+uses-permission#com.alicagatay.predictthenumber.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.alicagatay.predictthenumber
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:42:27-58
+category#com.alicagatay.predictthenumber
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/3ea888d958e703a85b57d5ad208c020e/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/929e0c6c5a16371ee62bc8a53401885e/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/929e0c6c5a16371ee62bc8a53401885e/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/929e0c6c5a16371ee62bc8a53401885e/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/929e0c6c5a16371ee62bc8a53401885e/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/929e0c6c5a16371ee62bc8a53401885e/AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.8.0.aar/a4dd820accdbd0010df9c0478592dd01/AndroidManifest.xml:30:13-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6160cd6d9f6447737dcbb82bbb06069b/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6160cd6d9f6447737dcbb82bbb06069b/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/alicagatay/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6160cd6d9f6447737dcbb82bbb06069b/AndroidManifest.xml:26:13-58
